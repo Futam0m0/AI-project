@@ -1,0 +1,33 @@
+{
+  "baseline": {
+    "Move": 2204,
+    "Attack": 747,
+    "Heal": 19,
+    "Defend": 144
+  },
+  "bfs": {
+    "Move": 1968,
+    "Attack": 879,
+    "Defend": 179,
+    "Heal": 23
+  },
+  "astar": {
+    "Move": 1968,
+    "Attack": 879,
+    "Defend": 179,
+    "Heal": 23
+  },
+  "sa-opt": {
+    "Move": 2309,
+    "Attack": 645,
+    "Retreat": 186,
+    "Defend": 73,
+    "Heal": 6
+  },
+  "ga-opt": {
+    "Move": 1573,
+    "Attack": 708,
+    "Retreat": 410,
+    "Skip": 84
+  }
+}

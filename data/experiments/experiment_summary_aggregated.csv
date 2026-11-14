@@ -1,0 +1,6 @@
+strategy,battle_count,win_rate_pct,avg_rounds,avg_party_hp_left,avg_party_damage_dealt,avg_party_healing_done,pct_party_complete
+astar,50,98.0,13.5,55.92,29.82,3.9,98.0
+baseline,50,98.0,12.86,58.12,29.86,1.7,98.0
+bfs,50,98.0,13.08,56.68,29.66,3.6,98.0
+ga-opt,50,100.0,10.38,69.34,30.0,0.08,100.0
+sa-opt,50,96.0,15.64,57.42,29.84,2.92,96.0
